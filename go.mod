@@ -1,4 +1,4 @@
-module rerix/mp3edit
+module net.rerix/retag
 
 go 1.25.1
 
